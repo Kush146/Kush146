@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kush146&label=Profile%20views&color=0e75b6&style=flat" alt="kush146" /> </p>
 
-- I’m currently working on [Realtime Chat App (Expo + Node + MongoDB)](A cross-platform chat app with authentication, MongoDB Atlas, and JWT. https://wf-artifacts.eascdn.net/builds/store-rg/29f2193f-3e39-468b-a538-aae7b63eb1f1/fbd3dd26-550d-42ae-9c4d-fdcd383c8af3/0198d768-137c-7a19-90aa-f9a4bd72ecb3/application-fbd3dd26-550d-42ae-9c4d-fdcd383c8af3.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=75d871a1a44e598975dd84fa2341c9b0%2F20250924%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250924T153823Z&X-Amz-Expires=900&X-Amz-Signature=838dae8b100959a6727d6b37fe9f15d69b07eea8d9af922c2a8b3d50634c277a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+- I’m currently working on [Realtime Chat App (Expo + Node + MongoDB)](A cross-platform chat app with authentication, MongoDB Atlas, and JWT. 
 
 - I’m currently learning **Full-stack development with React, Node.js, MongoDB**
 
