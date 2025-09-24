@@ -11,7 +11,7 @@
 
 - I’m looking for help with [Advanced deployment (Docker + Kubernetes)](Open-source contributions)
 
-- All of my projects are available at [https://github.com/Kush146/Kush146](https://github.com/Kush146)
+- All of my projects are available at [https://github.com/Kush146](https://github.com/Kush146)
 
 - What kind of projects have I built? [WhatsApp Web Clone (React + Node + MongoDB) Smart Todo List AI (React + Node + OpenAI API) Realtime Chat App (React Native + Node + MongoDB)](WhatsApp Web Clone (React + Node + MongoDB) Smart Todo List AI (React + Node + OpenAI API) Realtime Chat App (React Native + Node + MongoDB))
 
