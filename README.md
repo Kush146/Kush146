@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kush146&label=Profile%20views&color=0e75b6&style=flat" alt="kush146" /> </p>
 
-- I’m currently working on [Realtime Chat App (Expo + Node + MongoDB)](A cross-platform chat app with authentication, MongoDB Atlas, and JWT. 
+- I’m currently working on Fullstack projects.
 
 - I’m currently learning **Full-stack development with React, Node.js, MongoDB**
 
