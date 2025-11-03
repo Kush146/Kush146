@@ -4,7 +4,7 @@
 A passionate developer from India, building scalable, real-world web and mobile applications with React, Node.js, and AI integrations.  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kush146&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/Kush146?label=Followers&style=social)](https://github.com/Kush146)
+
 
 ---
 
