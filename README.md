@@ -1,27 +1,76 @@
-<h1 align="center">Hi , I'm Kush Kore</h1>
-<h3 align="center">A passionate fresher frontend & full-stack developer from India, building real-world projects with React, Node.js, and AI.</h3>
+# Hi, I'm Kush Kore 👋  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kush146&label=Profile%20views&color=0e75b6&style=flat" alt="kush146" /> </p>
+🚀 **Full-Stack & AI Developer | React.js | Node.js | MongoDB | Next.js | React Native**  
+A passionate developer from India, building scalable, real-world web and mobile applications with React, Node.js, and AI integrations.  
 
-- I’m currently working on Fullstack projects.
+![Profile Views](https://komarev.com/ghpvc/?username=Kush146&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/Kush146?label=Followers&style=social)](https://github.com/Kush146)
 
-- I’m currently learning **Full-stack development with React, Node.js, MongoDB**
+---
 
-- I’m looking to collaborate on [Full-stack projects (React + Node.js + MongoDB)](AI/ML powered apps with real-time use cases)
+### 💻 About Me  
+- 👨‍💻 Former **Web Development Intern at Labmentix**, where I built and deployed full-stack web apps and real-time chat systems.  
+- 🌱 Currently exploring **Full-Stack, AI, and Cloud-based projects** using React, Next.js, Node.js, MongoDB, and TensorFlow.  
+- 🤝 Open to collaborate on **Full-Stack / AI / Open-Source** projects.  
+- 💡 Strong in **frontend architecture, backend APIs, authentication, and deployment pipelines.**  
+- ⚡ Fun fact: I love switching between **coding, badminton 🏸, and event management!**
 
-- I’m looking for help with [Advanced deployment (Docker + Kubernetes)](Open-source contributions)
+---
 
-- All of my projects are available at [https://github.com/Kush146](https://github.com/Kush146)
+### 🧩 Featured Projects  
 
-- What kind of projects have I built? [WhatsApp Web Clone (React + Node + MongoDB) Smart Todo List AI (React + Node + OpenAI API) Realtime Chat App (React Native + Node + MongoDB)](WhatsApp Web Clone (React + Node + MongoDB) Smart Todo List AI (React + Node + OpenAI API) Realtime Chat App (React Native + Node + MongoDB))
+#### 🛒 [Greencart – Full-Stack E-Commerce App](https://greencart-client-lyart.vercel.app/)
+> **Tech:** React, Next.js, Node.js, MongoDB  
+Implemented authentication, product listings, and cart checkout flow. Deployed on Vercel + Heroku.  
 
-- Ask me about **React, Vue, GSAP animations REST APIs and authentication (JWT, OAuth2)**
+#### 🎬 [KUKISHOW – Movie Ticket Booking App](https://movie-ticket-fullstack-3tx1.vercel.app/)
+> **Tech:** React, Node.js, Express, MongoDB  
+Developed a responsive movie booking app with JWT authentication and seat selection.  
 
-- How to reach me **Email: kushkore.work@gmail.com , LinkedIn: linkedin.com/in/kushkore**
+#### 💬 [QuickChat – Real-Time Chat App](https://quickchat-fullstack-client.vercel.app/)
+> **Tech:** Next.js, Node.js, MongoDB, WebSocket  
+Built a real-time chat system with secure JWT login and instant messaging.  
 
-- Do I have certifications? [Yes From Deloitte, TATA, Naukri.com, and One Roadmap in Data Analytics, AI Engineering, and Python.](Yes From Deloitte, TATA, Naukri.com, and One Roadmap in Data Analytics, AI Engineering, and Python.)
+#### 🛍️ [GoCart – E-Commerce Platform](https://go-cart-ecommerce-three.vercel.app/)
+> **Tech:** Next.js, PostgreSQL, Prisma, Stripe  
+Integrated payments, authentication with Clerk, and deployed via Vercel.  
 
-- Fun fact **Fresher, but already shipped production-ready apps 🚀 Can switch between coding, badminton 🏸, and event management Love exploring new AI tools and frameworks**
+---
+
+### 🧠 Skills & Tools  
+**Frontend:** React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Material-UI  
+**Backend:** Node.js, Express.js, JWT, OAuth2, REST APIs  
+**Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
+**Mobile:** React Native, Flutter, Expo  
+**AI / ML:** TensorFlow, Keras, Scikit-learn, OpenCV  
+**DevOps:** Git, Docker, GitHub Actions, Vercel, Render, Firebase Hosting  
+**Other:** CI/CD, Postman, Cloud Deployments, Agile  
+
+---
+
+### 🎓 Education  
+**B.Tech – Computer Science & Engineering**  
+_Amity University, Mumbai (2021–2025)_  
+
+---
+
+### 🏆 Achievements  
+- 🥇 **Top AI Project Award – Acmegrade Internship (2024)**  
+- 🚀 Improved ML model accuracy by **15%** with TensorFlow/Keras on CIFAR-10.  
+- 🏸 **Captain**, Amity Pro Badminton League – led team to 1st place.  
+- 🎤 Organized technical & cultural university events demonstrating leadership and teamwork.  
+
+---
+
+### 📫 Connect with Me  
+📧 **Email:** [kushkore.work@gmail.com](mailto:kushkore.work@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/kushkore](https://linkedin.com/in/kushkore)  
+💻 **GitHub:** [github.com/Kush146](https://github.com/Kush146)  
+
+---
+
+💡 _“Turning ideas into impactful digital experiences — one line of code at a time.”_  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
