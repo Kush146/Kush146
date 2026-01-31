@@ -3,6 +3,14 @@
 </div>
 
 <div align="center">
+
+**🏆 Full-Stack Developer @ AbleSpace | React • Next.js • TypeScript • Node.js**
+
+**Original Profile Design by Kush Kore** | **© 2025**
+
+</div>
+
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%40+AbleSpace+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+Scalable+Web+Apps+%F0%9F%92%BB;San+Francisco+(Remote)+from+Mumbai+%F0%9F%8C%8D;AI+%26+ML+Integration+Specialist+%F0%9F%A4%96;Open+Source+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -24,6 +32,8 @@
 ---
 
 ## 💫 About Me
+
+> **Note:** This profile showcases my authentic professional journey. All projects, achievements, and content are original work by Kush Kore.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
@@ -519,11 +529,91 @@ When I'm not coding, you'll find me playing badminton 🏸 or organizing tech ev
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-**Last Updated:** January 2026
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+
+---
+
+## 📜 License & Protection
+
+<div align="center">
+
+### MIT License
+
+**Copyright © 2025 Kush Kore**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+</div>
+
+<details>
+<summary><b>📖 View Full License</b></summary>
+
+```
+MIT License
+
+Copyright (c) 2025 Kush Kore
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+</details>
+
+---
+
+### 🛡️ Usage Guidelines
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ✅ You CAN:
+- View and learn from this profile
+- Fork for personal learning
+- Use as inspiration
+- Suggest improvements
+
+</td>
+<td width="50%" valign="top">
+
+#### ❌ Please DON'T:
+- Copy without attribution
+- Claim as your own work
+- Use commercially without permission
+- Remove copyright notices
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**📧 Questions?** Contact me at [kushkore04@gmail.com](mailto:kushkore04@gmail.com)
+
+**⭐ Found this helpful?** Consider giving it a star!
+
+**Last Updated:** January 2026 | **Built with 💙 by Kush Kore**
+
+</div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
