@@ -414,12 +414,12 @@ When I'm not coding, you'll find me playing badminton 🏸 or organizing tech ev
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kush146&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kush146&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kush146&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FF6BCB&icon_color=00F7FF&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kush146&theme=radical&hide_border=true&background=0d1117&ring=FF6BCB&fire=00F7FF&currStreakLabel=FF6BCB" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush146&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush146&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6BCB&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -455,7 +455,7 @@ When I'm not coding, you'll find me playing badminton 🏸 or organizing tech ev
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kush146&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kush146&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
