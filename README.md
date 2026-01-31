@@ -23,73 +23,61 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+## 💫 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
-</td>
-<td width="50%">
+<br>
 
-### 💻 About Me
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633030316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-```typescript
-const kush: Developer = {
-    currentRole: "Full-Stack Developer @ AbleSpace",
-    location: "Mumbai, India 🇮🇳",
-    workingRemotelyFor: "San Francisco, CA 🌉",
-    education: "B.Tech CSE @ Amity University Mumbai",
-    
-    recentAchievements: [
-        "🚀 Reduced deployment time by 20%",
-        "🐛 Cut post-release bugs by 30%",
-        "🎯 Achieved 95% ML model precision",
-        "📈 Improved accuracy by 12%"
-    ],
-    
-    currentFocus: [
-        "Building responsive UIs with React & Next.js",
-        "REST API integration & optimization",
-        "Performance tuning & scalability",
-        "TypeScript best practices"
-    ],
-    
-    techStack: {
-        frontend: ["React", "Next.js", "TypeScript"],
-        backend: ["Node.js", "Express", "MongoDB"],
-        mobile: ["React Native", "Flutter"],
-        aiMl: ["TensorFlow", "Keras", "Python"],
-        cloud: ["AWS", "Azure", "Vercel", "Firebase"]
-    },
-    
-    funFact: "I switch between coding 💻, badminton 🏸, and event management! 🎤"
-};
-```
+### 👨‍💻 **Current Role**
+**Full-Stack Developer @ AbleSpace**  
+📍 Mumbai, India 🇮🇳 | Working Remotely for San Francisco, CA 🌉
 
-</td>
-</tr>
-</table>
+### 🎓 **Education**
+**B.Tech in Computer Science & Engineering**  
+🏛️ Amity University Mumbai | 📅 2021-2025
+
+### 🎯 **What I'm Doing Now**
+- 🔨 Building responsive UIs with **React & Next.js**
+- ⚡ Optimizing **REST APIs** & backend performance
+- 🎨 Creating reusable component libraries
+- 📊 Implementing **Material Design** systems
+- 🚀 Scaling applications for production
+
+### 🏆 **Recent Achievements**
+- ⚡ **20%** faster deployments through CI/CD optimization
+- 🐛 **30%** reduction in post-release bugs
+- 🎯 **95%** precision in ML models
+- 📈 **12%** improvement in model accuracy
+
+### 💡 **Fun Fact**
+When I'm not coding, you'll find me playing badminton 🏸 or organizing tech events! 🎤
+
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>🚀 AbleSpace - Full-Stack Developer</b> (Current)</summary>
+<summary><b>🚀 AbleSpace - Full-Stack Developer</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> (Current)</summary>
 
 <br>
 
 **📅 November 2025 - Present** | **📍 San Francisco, California (Remote)**
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="250">
 
 **🔧 Key Responsibilities:**
-- Develop responsive, modern, accessible UIs using **React.js & Next.js**
-- Integrate **RESTful APIs** with backend teams
-- Optimize frontend performance, rendering, and state management
-- Build reusable UI components and design systems (Material Design)
-- Support backend modules built with **Node.js & Express.js**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="20"/> Develop responsive, modern, accessible UIs using **React.js & Next.js**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="20"/> Integrate **RESTful APIs** with backend teams
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20"/> Optimize frontend performance, rendering, and state management
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" width="20"/> Build reusable UI components and design systems (Material Design)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20"/> Support backend modules built with **Node.js & Express.js**
 
 **💻 Tech Stack:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -104,18 +92,20 @@ const kush: Developer = {
 </details>
 
 <details>
-<summary><b>🔧 Labmentix - Web Development Intern</b></summary>
+<summary><b>🔧 Labmentix - Web Development Intern</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /></summary>
 
 <br>
 
 **📅 September 2025 - November 2025** | **📍 Bengaluru, India**
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
+
 **🎯 Key Achievements:**
-- ✅ Built **full-stack & cross-platform chat applications**
-- ✅ Implemented **Firebase Authentication, Firestore, JWT** for secure auth
-- ✅ **Reduced deployment time by 20%** using CI/CD (Vercel, Render, Firebase)
-- ✅ **Cut post-release bugs by 30%** through unit & integration testing
-- ✅ Enabled secure real-time data synchronization
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20"/> Built **full-stack & cross-platform chat applications**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="20"/> Implemented **Firebase Authentication, Firestore, JWT** for secure auth
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20"/> **Reduced deployment time by 20%** using CI/CD
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bug.png" width="20"/> **Cut post-release bugs by 30%** through testing
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20"/> Enabled secure real-time data synchronization
 
 **💻 Tech Stack:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -128,18 +118,20 @@ const kush: Developer = {
 </details>
 
 <details>
-<summary><b>🤖 Acmegrade - Artificial Intelligence Intern</b></summary>
+<summary><b>🤖 Acmegrade - Artificial Intelligence Intern</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" /></summary>
 
 <br>
 
 **📅 July 2024 - September 2024** | **📍 Bengaluru, India**
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200">
+
 **🎯 Key Achievements:**
-- ✅ Built and trained **CNN models** using **Python & TensorFlow**
-- ✅ Worked on **image classification (CIFAR-10 dataset)**
-- ✅ **Achieved 95% precision** through iterative training
-- ✅ **Improved model accuracy by 12%** via hyperparameter tuning
-- ✅ Reduced overfitting through data preprocessing & augmentation
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="20"/> Built and trained **CNN models** using **Python & TensorFlow**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Framed%20Picture.png" width="20"/> Worked on **image classification (CIFAR-10 dataset)**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="20"/> **Achieved 95% precision** through iterative training
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20"/> **Improved model accuracy by 12%** via hyperparameter tuning
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="20"/> Reduced overfitting through data preprocessing & augmentation
 
 **💻 Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -236,85 +228,105 @@ const kush: Developer = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">🛒 Greencart</h3>
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
 
 <a href="https://greencart-client-lyart.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+<img src="https://img.shields.io/badge/🚀_Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"/>
 </a>
 <a href="https://github.com/Kush146" target="_blank">
-<img src="https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github" alt="View Code"/>
+<img src="https://img.shields.io/badge/💻_View-Code-blue?style=for-the-badge&logo=github" alt="View Code"/>
 </a>
 
-<p><strong>Full-Stack E-Commerce App</strong></p>
-<p>🔹 React, Next.js, Node.js, MongoDB<br>
-🔹 Authentication & Cart Checkout<br>
-🔹 Deployed on Vercel + Heroku</p>
+<p><strong>Full-Stack E-Commerce Platform</strong></p>
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="20"/> Shopping Cart System<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="20"/> Secure Authentication<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="20"/> Product Management
+</p>
+
+**Tech:** React • Next.js • Node.js • MongoDB
+
 </div>
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">🎬 KUKISHOW</h3>
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80">
 
 <a href="https://movie-ticket-fullstack-3tx1.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+<img src="https://img.shields.io/badge/🚀_Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"/>
 </a>
 <a href="https://github.com/Kush146" target="_blank">
-<img src="https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github" alt="View Code"/>
+<img src="https://img.shields.io/badge/💻_View-Code-blue?style=for-the-badge&logo=github" alt="View Code"/>
 </a>
 
-<p><strong>Movie Ticket Booking App</strong></p>
-<p>🔹 React, Node.js, Express, MongoDB<br>
-🔹 JWT Authentication & Seat Selection<br>
-🔹 Responsive Design</p>
+<p><strong>Movie Ticket Booking System</strong></p>
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Admission%20Tickets.png" width="20"/> Smart Seat Selection<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" width="20"/> JWT Authentication<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20"/> Fully Responsive
+</p>
+
+**Tech:** React • Node.js • Express • MongoDB
+
 </div>
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">💬 QuickChat</h3>
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
 
 <a href="https://quickchat-fullstack-client.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+<img src="https://img.shields.io/badge/🚀_Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"/>
 </a>
 <a href="https://github.com/Kush146" target="_blank">
-<img src="https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github" alt="View Code"/>
+<img src="https://img.shields.io/badge/💻_View-Code-blue?style=for-the-badge&logo=github" alt="View Code"/>
 </a>
 
 <p><strong>Real-Time Chat Application</strong></p>
-<p>🔹 Next.js, Node.js, MongoDB<br>
-🔹 WebSocket for Real-time Messaging<br>
-🔹 Secure JWT Authentication</p>
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="20"/> Instant Messaging<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="20"/> WebSocket Integration<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="20"/> End-to-End Security
+</p>
+
+**Tech:** Next.js • Node.js • MongoDB • WebSocket
+
 </div>
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">🛍️ GoCart</h3>
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="80">
 
 <a href="https://go-cart-ecommerce-three.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+<img src="https://img.shields.io/badge/🚀_Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"/>
 </a>
 <a href="https://github.com/Kush146" target="_blank">
-<img src="https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github" alt="View Code"/>
+<img src="https://img.shields.io/badge/💻_View-Code-blue?style=for-the-badge&logo=github" alt="View Code"/>
 </a>
 
-<p><strong>E-Commerce Platform</strong></p>
-<p>🔹 Next.js, PostgreSQL, Prisma<br>
-🔹 Stripe Payment Integration<br>
-🔹 Clerk Authentication</p>
+<p><strong>Modern E-Commerce Platform</strong></p>
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Credit%20Card.png" width="20"/> Stripe Payments<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20"/> Clerk Authentication<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Database.png" width="20"/> PostgreSQL + Prisma
+</p>
+
+**Tech:** Next.js • PostgreSQL • Prisma • Stripe
+
 </div>
 </td>
 </tr>
