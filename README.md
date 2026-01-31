@@ -26,12 +26,12 @@
 ## 💫 About Me
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 </div>
 
 <br>
 
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633030316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 👨‍💻 **Current Role**
 **Full-Stack Developer @ AbleSpace**  
@@ -98,7 +98,7 @@ When I'm not coding, you'll find me playing badminton 🏸 or organizing tech ev
 
 **📅 September 2025 - November 2025** | **📍 Bengaluru, India**
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
 
 **🎯 Key Achievements:**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20"/> Built **full-stack & cross-platform chat applications**
@@ -124,7 +124,7 @@ When I'm not coding, you'll find me playing badminton 🏸 or organizing tech ev
 
 **📅 July 2024 - September 2024** | **📍 Bengaluru, India**
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200">
+<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200">
 
 **🎯 Key Achievements:**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="20"/> Built and trained **CNN models** using **Python & TensorFlow**
@@ -232,7 +232,7 @@ When I'm not coding, you'll find me playing badminton 🏸 or organizing tech ev
 <h3 align="center">🛒 Greencart</h3>
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdqYnhveGw4cGo4azBqNXd1YWo4MHRrMmY4aGh5c3JyYnV0aWtyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="80">
 
 <a href="https://greencart-client-lyart.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🚀_Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"/>
@@ -257,7 +257,7 @@ When I'm not coding, you'll find me playing badminton 🏸 or organizing tech ev
 <h3 align="center">🎬 KUKISHOW</h3>
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80">
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80">
 
 <a href="https://movie-ticket-fullstack-3tx1.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🚀_Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"/>
@@ -284,7 +284,7 @@ When I'm not coding, you'll find me playing badminton 🏸 or organizing tech ev
 <h3 align="center">💬 QuickChat</h3>
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80">
 
 <a href="https://quickchat-fullstack-client.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🚀_Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"/>
@@ -309,7 +309,7 @@ When I'm not coding, you'll find me playing badminton 🏸 or organizing tech ev
 <h3 align="center">🛍️ GoCart</h3>
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="80">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80">
 
 <a href="https://go-cart-ecommerce-three.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🚀_Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"/>
@@ -417,11 +417,27 @@ When I'm not coding, you'll find me playing badminton 🏸 or organizing tech ev
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kush146/Kush146/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kush146/Kush146/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kush146/Kush146/output/github-contribution-grid-snake.svg">
-  </picture>
+
+### 💻 Coding Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kush146&theme=react-dark&hide_border=true&area=true" width="95%">
+
+</div>
+
+<div align="center">
+
+### ⚡ Tech Stack in Action
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,postgres,prisma,tailwind,firebase,aws,docker,git,vscode,python,tensorflow&perline=8" />
+
+</div>
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Kush146&theme=radical&hide_border=true" width="70%">
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
@@ -444,6 +460,8 @@ When I'm not coding, you'll find me playing badminton 🏸 or organizing tech ev
 **🏛️ Amity University, Mumbai**  
 📅 **2021 – 2025**
 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+
 **Relevant Coursework:**
 - Data Structures & Algorithms
 - Web Development
@@ -457,6 +475,8 @@ When I'm not coding, you'll find me playing badminton 🏸 or organizing tech ev
 ### 🏫 Junior College – Computer Science
 **🏛️ Atomic Energy Central School 1, Tarapur**  
 📅 **July 2019 – May 2021**
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50">
 
 **Focus Areas:**
 - Computer Science Fundamentals
