@@ -1,762 +1,368 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                    ANIMATED HEADER                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=6,11,20,12,2,22&text=Hey!%20I'm%20Kush%20Kore%20👋&fontSize=60&fontAlignY=45&desc=Full-Stack%20Developer%20@%20AbleSpace&descSize=22&descAlignY=65&animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=6,11,20,12,2,22&text=Hey!%20I'm%20Kush%20Kore%20👋&fontSize=58&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20AbleSpace&descSize=22&descAlignY=65&animation=scaleIn" alt="Header" />
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                    DYNAMIC TYPING                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🏆+Full-Stack+Developer+@+AbleSpace;⚡+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;🚀+Building+Scalable+Web+Apps;🌉+San+Francisco+(Remote)+from+Mumbai;🤖+AI+%26+ML+Integration+Specialist)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&lines=Full-Stack+Developer+%40+AbleSpace;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+Scalable+Web+Apps;Mumbai+%E2%86%92+San+Francisco+%28Remote%29;AI+%26+ML+Integration" alt="Typing" />
 </div>
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Kush146&label=Profile%20Views&color=00F7FF&style=for-the-badge&labelColor=000000)
-![GitHub Followers](https://img.shields.io/github/followers/Kush146?color=FF00FF&label=Followers&style=for-the-badge&labelColor=000000)
-
+  <img src="https://komarev.com/ghpvc/?username=Kush146&label=Profile+Views&color=00F7FF&style=for-the-badge&labelColor=0d1117" alt="Views" />
+  <img src="https://img.shields.io/github/followers/Kush146?color=FF6BCB&label=Followers&style=for-the-badge&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Kush146?color=FFD700&label=Stars&style=for-the-badge&labelColor=0d1117" alt="Stars" />
 </div>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://linkedin.com/in/kushkore)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30)](mailto:kushkore04@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=30)](https://portfoliomain-two-zeta.vercel.app/)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/Kush146)
-
+  <a href="https://linkedin.com/in/kushkore"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kushkore04@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfoliomain-two-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Kush146"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://twitter.com/kushkore"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="35"> About Me
-
-> **Note:** This profile showcases my authentic professional journey. All projects, achievements, and content are original work by Kush Kore.
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f76-8b6b-4c3855f7b729.gif" width="500" />
-</div>
-
-<br>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" /> About Me
 
 <table>
-<tr>
-<td width="60%" valign="top">
+  <tr>
+    <td width="55%" valign="top">
 
-### 👨‍💻 **Current Role**
-**Full-Stack Developer @ AbleSpace**  
-📍 Mumbai, India 🇮🇳 | Working Remotely for San Francisco, CA 🌉
+**💼 Full-Stack Developer @ AbleSpace**  
+**📍 Mumbai, India** → San Francisco, CA (Remote)
 
-### 🎓 **Education**
-**B.Tech in Computer Science & Engineering**  
-🏛️ Amity University Mumbai | 📅 2021-2025
+**🎓 B.Tech CSE** — Amity University Mumbai (2021–2025)
 
-### 🎯 **What I'm Doing Now**
-- 🔨 Building responsive UIs with **React & Next.js**
-- ⚡ Optimizing **REST APIs** & backend performance
-- 🎨 Creating reusable component libraries
-- 📊 Implementing **Material Design** systems
-- 🚀 Scaling applications for production
+**🎯 What I'm Building**
+- 🔨 Responsive UIs with **React & Next.js**
+- ⚡ **REST APIs** and backend performance
+- 🎨 Reusable component libraries
+- 📊 **Material Design** systems
+- 🚀 Production-ready applications
 
-### 🏆 **Recent Achievements**
-- ⚡ **20%** faster deployments through CI/CD optimization
-- 🐛 **30%** reduction in post-release bugs
-- 🎯 **95%** precision in ML models
-- 📈 **12%** improvement in model accuracy
+**🏆 Impact Metrics**
+- ⚡ **20%** faster deployments (CI/CD)
+- 🐛 **30%** fewer bugs (testing)
+- 🎯 **95%** ML precision
+- 📈 **12%** accuracy improvement
 
-</td>
-<td width="40%" align="center">
-
-<br>
-
-<!-- Animated Status Cards -->
-<img src="https://img.shields.io/badge/🔥-Problem%20Solver-FF6B6B?style=for-the-badge&labelColor=000000" width="200" />
-<br><br>
-<img src="https://img.shields.io/badge/⚡-Fast%20Learner-FFD93D?style=for-the-badge&labelColor=000000" width="200" />
-<br><br>
-<img src="https://img.shields.io/badge/🎯-Detail%20Oriented-6BCB77?style=for-the-badge&labelColor=000000" width="200" />
-<br><br>
-<img src="https://img.shields.io/badge/🚀-Innovator-4D96FF?style=for-the-badge&labelColor=000000" width="200" />
-
-<br><br>
-
-### 💡 **Fun Fact**
-When I'm not coding, you'll find me playing badminton 🏸 or organizing tech events! 🎤
-
-</td>
-</tr>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Problem_Solver-FF6B6B?style=for-the-badge&labelColor=0d1117" alt="" />
+      <br>
+      <img src="https://img.shields.io/badge/Fast_Learner-FFD93D?style=for-the-badge&labelColor=0d1117" alt="" />
+      <br>
+      <img src="https://img.shields.io/badge/Detail_Oriented-6BCB77?style=for-the-badge&labelColor=0d1117" alt="" />
+      <br>
+      <img src="https://img.shields.io/badge/Innovator-4D96FF?style=for-the-badge&labelColor=0d1117" alt="" />
+    </td>
+  </tr>
 </table>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+**💡 Fun fact:** When not coding — badminton 🏸 or organizing tech events 🎤
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="35"> Professional Experience
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR6/giphy.gif" width="38" /> Professional Experience
 
 <details open>
 <summary>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="25" />
-  <b>🚀 AbleSpace - Full-Stack Developer</b>
-  <img src="https://img.shields.io/badge/CURRENT-00FF00?style=flat-square" />
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="28" alt="" />
+  <b>🚀 AbleSpace — Full-Stack Developer</b>
+  <img src="https://img.shields.io/badge/CURRENT-22c55e?style=flat-square" alt="Now" />
 </summary>
 
-<br>
-
-<div align="center">
-
-**📅 November 2025 - Present** | **📍 San Francisco, California (Remote)**
-
-</div>
-
-<br>
-
 <table>
-<tr>
-<td width="70%" valign="top">
+  <tr>
+    <td width="70%" valign="top">
+
+**📅 Nov 2025 – Present** · **📍 San Francisco, CA (Remote)**
 
 **🔧 Key Responsibilities:**
-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="20" /> Develop responsive, modern, accessible UIs using **React.js & Next.js**
-- <img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="20" /> Integrate **RESTful APIs** with backend teams
-- <img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="20" /> Optimize frontend performance, rendering, and state management
-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="20" /> Build reusable UI components and design systems (Material Design)
-- <img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="20" /> Support backend modules built with **Node.js & Express.js**
+- Develop responsive, accessible UIs with **React.js & Next.js**
+- Integrate **RESTful APIs** with backend teams
+- Optimize frontend performance and state management
+- Build reusable UI components (Material Design)
+- Support backend modules with **Node.js & Express.js**
 
-</td>
-<td width="30%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-b0c6-4580-b79c-9d0e9e5b4d35.gif" width="200" />
-
-</td>
-</tr>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="" />
+    </td>
+  </tr>
 </table>
 
-<div align="center">
-
-**💻 Tech Stack:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,tailwind,vercel&theme=dark&perline=8" alt="Stack" />
+</p>
 
 </details>
 
 <details>
 <summary>
-  <img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="25" />
-  <b>🔧 Labmentix - Web Development Intern</b>
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="28" alt="" />
+  <b>🔧 Labmentix — Web Development Intern</b>
 </summary>
 
-<br>
-
-<div align="center">
-
-**📅 September 2025 - November 2025** | **📍 Bengaluru, India**
-
-</div>
-
-<br>
-
 <table>
-<tr>
-<td width="70%" valign="top">
+  <tr>
+    <td width="70%" valign="top">
+
+**📅 Sep – Nov 2025** · **📍 Bengaluru, India**
 
 **🎯 Key Achievements:**
-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="20" /> Built **full-stack & cross-platform chat applications**
-- <img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="20" /> Implemented **Firebase Authentication, Firestore, JWT** for secure auth
-- <img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="20" /> **Reduced deployment time by 20%** using CI/CD
-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="20" /> **Cut post-release bugs by 30%** through testing
-- <img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="20" /> Enabled secure real-time data synchronization
+- Built **full-stack & cross-platform chat applications**
+- Implemented **Firebase Auth, Firestore, JWT**
+- **20%** faster deployments via CI/CD
+- **30%** bug reduction through testing
 
-</td>
-<td width="30%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7c943878-3e34-4c25-8704-7fbfd1b6a0b8.gif" width="180" />
-
-</td>
-</tr>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="180" alt="" />
+    </td>
+  </tr>
 </table>
 
-<div align="center">
-
-**💻 Tech Stack:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,flutter,nodejs,mongodb,firebase&theme=dark&perline=6" alt="Stack" />
+</p>
 
 </details>
 
 <details>
 <summary>
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="25" />
-  <b>🤖 Acmegrade - Artificial Intelligence Intern</b>
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="28" alt="" />
+  <b>🤖 Acmegrade — AI Intern</b>
 </summary>
 
-<br>
-
-<div align="center">
-
-**📅 July 2024 - September 2024** | **📍 Bengaluru, India**
-
-</div>
-
-<br>
-
 <table>
-<tr>
-<td width="70%" valign="top">
+  <tr>
+    <td width="70%" valign="top">
+
+**📅 Jul – Sep 2024** · **📍 Bengaluru, India**
 
 **🎯 Key Achievements:**
-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="20" /> Built and trained **CNN models** using **Python & TensorFlow**
-- <img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="20" /> Worked on **image classification (CIFAR-10 dataset)**
-- <img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="20" /> **Achieved 95% precision** through iterative training
-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="20" /> **Improved model accuracy by 12%** via hyperparameter tuning
-- <img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="20" /> Reduced overfitting through data preprocessing & augmentation
+- Built **CNN models** with Python & TensorFlow
+- Image classification (CIFAR-10 dataset)
+- **95%** precision; **12%** accuracy improvement
+- Reduced overfitting via data augmentation
 
-</td>
-<td width="30%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7c943878-3e34-4c25-8704-7fbfd1b6a0b8.gif" width="180" />
-
-</td>
-</tr>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="180" alt="" />
+    </td>
+  </tr>
 </table>
 
-<div align="center">
-
-**💻 Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv&theme=dark&perline=6" alt="Stack" />
+</p>
 
 </details>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="35"> Key Achievements & Metrics
-
-<div align="center">
+## <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="38" /> Key Achievements
 
 <table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="60" /><br>
-<img src="https://img.shields.io/badge/Deployment-20%25%20Faster-success?style=for-the-badge&logo=vercel&logoColor=white"><br>
-<b>CI/CD Optimization</b><br>
-<sub>Labmentix</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="60" /><br>
-<img src="https://img.shields.io/badge/Bugs-30%25%20Reduction-success?style=for-the-badge&logo=bug&logoColor=white"><br>
-<b>Quality Improvement</b><br>
-<sub>Labmentix</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="60" /><br>
-<img src="https://img.shields.io/badge/Precision-95%25-success?style=for-the-badge&logo=tensorflow&logoColor=white"><br>
-<b>ML Model Accuracy</b><br>
-<sub>Acmegrade</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="60" /><br>
-<img src="https://img.shields.io/badge/Improvement-12%25-success?style=for-the-badge&logo=chartdotjs&logoColor=white"><br>
-<b>Accuracy Boost</b><br>
-<sub>Acmegrade</sub>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" /><br>
+      <b>20%</b> Faster<br>
+      <sub>Deployments</sub><br>
+      <img src="https://img.shields.io/badge/CI_CD-Vercel-22c55e?style=flat-square" alt="" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/QTfX9Ejfra3Zm/giphy.gif" width="50" /><br>
+      <b>30%</b> Reduction<br>
+      <sub>Bugs</sub><br>
+      <img src="https://img.shields.io/badge/QA-Testing-22c55e?style=flat-square" alt="" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/3oKIPa2TdahY8LAAgx/giphy.gif" width="50" /><br>
+      <b>95%</b> Precision<br>
+      <sub>ML Models</sub><br>
+      <img src="https://img.shields.io/badge/CNN-TensorFlow-22c55e?style=flat-square" alt="" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="50" /><br>
+      <b>12%</b> Improvement<br>
+      <sub>Accuracy</sub><br>
+      <img src="https://img.shields.io/badge/Tuning-Hyperparams-22c55e?style=flat-square" alt="" />
+    </td>
+  </tr>
 </table>
 
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="35"> Certifications
-
-<div align="center">
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="38" /> Featured Projects
 
 <table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="50" /><br>
-<img src="https://img.shields.io/badge/Data_Analytics-Job_Simulation-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white"><br>
-<b>Data Analytics</b><br>
-<sub>Job Simulation Program</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="50" /><br>
-<img src="https://img.shields.io/badge/GenAI-Data_Analytics-FF6F00?style=for-the-badge&logo=google-gemini&logoColor=white"><br>
-<b>GenAI Data Analytics</b><br>
-<sub>Completion Certificate</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="50" /><br>
-<img src="https://img.shields.io/badge/Python-One_Roadmap-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
-<b>Python Certification</b><br>
-<sub>One Roadmap Skill</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="50" /><br>
-<img src="https://img.shields.io/badge/AI_Engineer-Certified-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"><br>
-<b>AI Engineer</b><br>
-<sub>Professional Certificate</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="50" /><br>
-<img src="https://img.shields.io/badge/AI_Internship-Completed-success?style=for-the-badge&logo=artificial-intelligence&logoColor=white"><br>
-<b>AI Internship</b><br>
-<sub>Completion Certificate</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="50" /><br>
-<img src="https://img.shields.io/badge/Full_Stack-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white"><br>
-<b>Full-Stack Dev</b><br>
-<sub>Professional Experience</sub>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <b>🛒 Greencart</b><br>
+        <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" alt="" /><br>
+        <a href="https://greencart-client-lyart.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
+        <a href="https://github.com/Kush146"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a><br>
+        <sub><b>Full-Stack E-Commerce</b> · Cart · Auth · Products</sub><br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb&theme=dark&perline=4" alt="" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <b>🎬 KUKISHOW</b><br>
+        <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" alt="" /><br>
+        <a href="https://movie-ticket-fullstack-3tx1.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
+        <a href="https://github.com/Kush146"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a><br>
+        <sub><b>Movie Ticket Booking</b> · Seats · JWT · Responsive</sub><br>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark&perline=4" alt="" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <b>💬 QuickChat</b><br>
+        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" alt="" /><br>
+        <a href="https://quickchat-fullstack-client.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
+        <a href="https://github.com/Kush146"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a><br>
+        <sub><b>Real-Time Chat</b> · WebSocket · Security</sub><br>
+        <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb&theme=dark&perline=4" alt="" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <b>🛍️ GoCart</b><br>
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="" /><br>
+        <a href="https://go-cart-ecommerce-three.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
+        <a href="https://github.com/Kush146"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a><br>
+        <sub><b>E-Commerce</b> · Stripe · Clerk · PostgreSQL</sub><br>
+        <img src="https://skillicons.dev/icons?i=nextjs,postgresql,prisma&theme=dark&perline=4" alt="" />
+      </p>
+    </td>
+  </tr>
 </table>
 
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="35"> Featured Projects
+## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="38" /> Tech Stack & Tools
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="30" />
-  🛒 Greencart
-</h3>
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7c943878-3e34-4c25-8704-7fbfd1b6a0b8.gif" width="80">
-
-<a href="https://greencart-client-lyart.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-00FF00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
-<a href="https://github.com/Kush146" target="_blank">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-</a>
-
-<p><strong>Full-Stack E-Commerce Platform</strong></p>
-<p>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="20"/> Shopping Cart System<br>
-<img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="20"/> Secure Authentication<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="20"/> Product Management
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,postgres,prisma,tailwind,redux,firebase,aws,docker,git,vscode,py,tensorflow,opencv&theme=dark&perline=9" alt="Tech" />
 </p>
 
-**Tech:** React • Next.js • Node.js • MongoDB
-
-</div>
-</td>
-
-<td width="50%" valign="top">
-<h3 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="30" />
-  🎬 KUKISHOW
-</h3>
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7c943878-3e34-4c25-8704-7fbfd1b6a0b8.gif" width="80">
-
-<a href="https://movie-ticket-fullstack-3tx1.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-00FF00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
-<a href="https://github.com/Kush146" target="_blank">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-</a>
-
-<p><strong>Movie Ticket Booking System</strong></p>
-<p>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="20"/> Smart Seat Selection<br>
-<img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="20"/> JWT Authentication<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="20"/> Fully Responsive
+<p align="center">
+  <b>Primary:</b> React · Next.js · TypeScript · Node.js · Express · MongoDB &nbsp;|&nbsp;
+  <b>Frontend:</b> Tailwind · Redux · Material-UI &nbsp;|&nbsp;
+  <b>AI/ML:</b> Python · TensorFlow · OpenCV
 </p>
 
-**Tech:** React • Node.js • Express • MongoDB
-
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="30" />
-  💬 QuickChat
-</h3>
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7c943878-3e34-4c25-8704-7fbfd1b6a0b8.gif" width="80">
-
-<a href="https://quickchat-fullstack-client.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-00FF00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
-<a href="https://github.com/Kush146" target="_blank">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-</a>
-
-<p><strong>Real-Time Chat Application</strong></p>
-<p>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="20"/> Instant Messaging<br>
-<img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="20"/> WebSocket Integration<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="20"/> End-to-End Security
-</p>
-
-**Tech:** Next.js • Node.js • MongoDB • WebSocket
-
-</div>
-</td>
-
-<td width="50%" valign="top">
-<h3 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="30" />
-  🛍️ GoCart
-</h3>
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7c943878-3e34-4c25-8704-7fbfd1b6a0b8.gif" width="80">
-
-<a href="https://go-cart-ecommerce-three.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-00FF00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
-<a href="https://github.com/Kush146" target="_blank">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-</a>
-
-<p><strong>Modern E-Commerce Platform</strong></p>
-<p>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="20"/> Stripe Payments<br>
-<img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="20"/> Clerk Authentication<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="20"/> PostgreSQL + Prisma
-</p>
-
-**Tech:** Next.js • PostgreSQL • Prisma • Stripe
-
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="35"> Tech Stack & Tools
+## <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="38" /> GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kush146&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00F7FF&icon_color=FF6BCB&text_color=c9d1d9&border_radius=12" alt="Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kush146&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6BCB&currStreakLabel=00F7FF&border_radius=12" alt="Streak" />
+</p>
 
-### 🎯 Primary Stack (Current Role @ AbleSpace)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush146&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&border_radius=12" alt="Top Langs" />
+</p>
 
-### 💻 Frontend Development
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kush146&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00F7FF&line=FF6BCB&point=FFFFFF&border_radius=12" width="95%" alt="Activity" />
+</p>
 
-### ⚙️ Backend Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kush146&theme=radical&no-frame=false&no-bg=false&margin-w=8&row=2&column=4" alt="Trophies" />
+</p>
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-
-### 🤖 AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🔧 Tools & Others
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-</div>
-
-<!-- Animated Skill Icons Grid -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,postgres,prisma,tailwind,firebase,aws,docker,git,vscode,python,tensorflow&perline=8&theme=dark" />
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="35"> GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kush146&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FF6BCB&icon_color=00F7FF&text_color=c9d1d9&border_radius=15" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kush146&theme=radical&hide_border=true&background=0d1117&ring=FF6BCB&fire=00F7FF&currStreakLabel=FF6BCB&border_radius=15" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush146&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6BCB&text_color=c9d1d9&border_radius=15" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kush146&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0d1117&color=00F7FF&line=FF6BCB&point=FFFFFF&border_radius=15" width="95%" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Kush146&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&border_radius=10" alt="GitHub Trophies" />
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="35"> Education
-
-<div align="center">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="38" /> Certifications
 
 <table>
-<tr>
-<td width="50%" align="center">
-
-### 📚 B.Tech – Computer Science & Engineering
-**🏛️ Amity University, Mumbai**  
-📅 **2021 – 2025**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7c943878-3e34-4c25-8704-7fbfd1b6a0b8.gif" width="80"> 
-
-**Relevant Coursework:**
-- Data Structures & Algorithms
-- Web Development
-- Machine Learning
-- Database Management Systems
-- Cloud Computing
-
-</td>
-<td width="50%" align="center">
-
-### 🏫 Junior College – Computer Science
-**🏛️ Atomic Energy Central School 1, Tarapur**  
-📅 **July 2019 – May 2021**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7c943878-3e34-4c25-8704-7fbfd1b6a0b8.gif" width="80">
-
-**Focus Areas:**
-- Computer Science Fundamentals
-- Programming Basics
-- Mathematics & Logic
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" alt="" /><br><b>Data Analytics</b><br><sub>Job Simulation</sub></td>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/GenAI-Data_Analytics-FF6F00?style=for-the-badge&logo=google-gemini&logoColor=white" alt="" /><br><b>GenAI Analytics</b><br><sub>Certificate</sub></td>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/Python-Roadmap-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="" /><br><b>Python</b><br><sub>One Roadmap</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/AI_Engineer-Certified-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="" /><br><b>AI Engineer</b><br><sub>Professional</sub></td>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/AI_Internship-Completed-22c55e?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="" /><br><b>AI Internship</b><br><sub>Completion</sub></td>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/Full_Stack-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="" /><br><b>Full-Stack Dev</b><br><sub>Experience</sub></td>
+  </tr>
 </table>
 
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121957-0e5d7a64-c524-4ff4-8d42-4a88a4e2dc77.png" width="35"> Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-6a4d1e32-1936-4bed-a73e-72d492d4e1f9.png" width="35"> Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://linkedin.com/in/kushkore)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30)](mailto:kushkore04@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=30)](https://portfoliomain-two-zeta.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/Kush146)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30)](https://twitter.com/kushkore)
-
-</div>
-
-<div align="center">
-  
-### 💡 *"Turning ideas into impactful digital experiences — one line of code at a time."*
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3d-ca47e8b68d0e.png" width="60" /> 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-<br><br>
-
-<!-- Visitor Counter -->
-<img src="https://profile-counter.glitch.me/Kush146/count.svg" />
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
----
-
-## 📜 License & Protection
-
-<div align="center">
-
-### MIT License
-
-**Copyright © 2025 Kush Kore**
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-</div>
-
-<details>
-<summary><b>📖 View Full License</b></summary>
-
-```
-MIT License
-
-Copyright (c) 2025 Kush Kore
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-</details>
-
----
-
-### 🛡️ Usage Guidelines
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="38" /> Education
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-#### ✅ You CAN:
-- View and learn from this profile
-- Fork for personal learning
-- Use as inspiration
-- Suggest improvements
-
-</td>
-<td width="50%" valign="top">
-
-#### ❌ Please DON'T:
-- Copy without attribution
-- Claim as your own work
-- Use commercially without permission
-- Remove copyright notices
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>📚 B.Tech — Computer Science</b><br>
+      Amity University, Mumbai<br>
+      <sub>2021 – 2025</sub><br>
+      Data Structures · Web Dev · ML · DBMS · Cloud
+    </td>
+    <td width="50%" align="center">
+      <b>🏫 Junior College — CS</b><br>
+      Atomic Energy Central School 1, Tarapur<br>
+      <sub>2019 – 2021</sub><br>
+      CS Fundamentals · Programming · Mathematics
+    </td>
+  </tr>
 </table>
 
-<div align="center">
-
-**📧 Questions?** Contact me at [kushkore04@gmail.com](mailto:kushkore04@gmail.com)
-
-**⭐ Found this helpful?** Consider giving it a star!
-
-**Last Updated:** January 2026 | **Built with 💙 by Kush Kore**
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ---
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38" /> Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/kushkore"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kushkore04@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfoliomain-two-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Kush146"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://twitter.com/kushkore"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Kush146/count.svg" alt="Visitors" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+<p align="center">
+  <em><b>Turning ideas into impactful digital experiences — one line of code at a time.</b></em>
+</p>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,12,2,22&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlignY=75&desc=Let's%20build%20something%20amazing%20together&descAlignY=90&descSize=15&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20,12,2,22&section=footer&text=Thanks+for+Visiting!&fontSize=36&fontAlignY=72&desc=Let's+build+something+amazing+together&descAlignY=88&descSize=14&animation=twinkling" alt="Footer" />
 </div>
