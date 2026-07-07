@@ -1,388 +1,208 @@
+<!--
+  ⚡ GITHUB PROFILE README
+  Replace YOUR_USERNAME (GitHub handle) and YOUR_EMAIL everywhere.
+  Save this file as README.md inside a repo named exactly YOUR_USERNAME
+  (e.g. github.com/johndoe/johndoe) and it will render on your profile.
+-->
+
+<!-- ===== 3D ANIMATED HEADER BANNER ===== -->
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20there,%20I'm%20YOUR_NAME%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%203D%20•%20AI%20•%20Motion&descAlignY=58&descAlign=50" alt="header"/>
+</a>
+
+<!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=6,11,20,12,2,22&text=Hey!%20I'm%20Kush%20Kore%20👋&fontSize=58&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20AbleSpace&descSize=22&descAlignY=65&animation=scaleIn" alt="Header" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%40+AbleSpace;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;AI+%2F+ML+Explorer+%E2%80%A2+CNN+%E2%80%A2+TensorFlow;Turning+ideas+into+3D%2C+motion-first+experiences.)](https://git.io/typing-svg)
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
+<!-- ===== SOCIAL BADGES ===== -->
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00e5ff&style=for-the-badge"/>
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&lines=Full-Stack+Developer+%40+AbleSpace;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+Scalable+Web+Apps;Mumbai+%E2%86%92+San+Francisco+%28Remote%29;AI+%26+ML+Integration+Specialist" alt="Typing" />
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kush146&label=Profile+Views&color=00F7FF&style=for-the-badge&labelColor=0d1117" alt="Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Kush146?color=FF6BCB&label=Followers&style=for-the-badge&labelColor=0d1117" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Kush146?color=FFD700&label=Stars&style=for-the-badge&labelColor=0d1117" alt="Stars" />
-</div>
+<!-- ===== ABOUT ME ===== -->
+<img align="right" height="240" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="dev-gif"/>
 
-<br>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/kushkore"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:kushkore04@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;
-  <a href="https://portfoliomain-two-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  &nbsp;
-  <a href="https://github.com/Kush146"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://twitter.com/kushkore"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</div>
+```ts
+const YOUR_NAME = {
+  role:      "Full-Stack Developer @ AbleSpace",
+  based_in:  "Mumbai, IN → San Francisco, CA (Remote)",
+  education: "B.Tech CSE, Amity University Mumbai (2021–2025)",
+  stack:     ["React", "Next.js", "TypeScript", "Node", "MongoDB"],
+  ai_ml:     ["Python", "TensorFlow", "OpenCV", "CNNs"],
+  building:  "Responsive UIs • REST APIs • Design Systems",
+  metrics:   { deploys: "+20%", bugs: "-30%", precision: "95%" },
+  fun_fact:  "Badminton 🏸 + organizing tech events 🎤",
+};
+```
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%" alt="" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
+<br clear="right"/>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" /> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,materialui,html,css&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase,graphql,prisma,vercel&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,threejs,git,github,vscode,figma,postman&perline=9" />
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/W5eqz2fZ1oRptcID6E/giphy.gif" width="32"> Experience
 
 <table>
-  <tr>
-    <td width="55%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-**💼 Full-Stack Developer @ AbleSpace**  
-**📍 Mumbai, India** → San Francisco, CA (Remote)
+### 🚀 AbleSpace — Full-Stack Developer
+`Nov 2025 – Present` · **San Francisco (Remote)**
+- Responsive UIs with **React + Next.js**
+- Integrating **REST APIs** with backend
+- Reusable **Material Design** components
+- Backend modules with **Node + Express**
 
-**🎓 B.Tech CSE** — Amity University Mumbai (2021–2025)
+</td>
+<td width="50%" valign="top">
 
-**🎯 What I'm Building**
-- 🔨 Responsive UIs with **React & Next.js**
-- ⚡ **REST APIs** and backend performance
-- 🎨 Reusable component libraries
-- 📊 **Material Design** systems
-- 🚀 Production-ready applications
-
-**🏆 Impact Metrics**
+### 🔧 Labmentix — Web Dev Intern
+`Sep – Nov 2025` · **Bengaluru**
+- Full-stack & cross-platform chat apps
+- **Firebase Auth, Firestore, JWT**
 - ⚡ **20%** faster deployments (CI/CD)
-- 🐛 **30%** fewer bugs (testing)
-- 🎯 **95%** ML precision
-- 📈 **12%** accuracy improvement
+- 🐛 **30%** fewer bugs via testing
 
-    </td>
-    <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Problem_Solver-FF6B6B?style=for-the-badge&labelColor=0d1117" alt="" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Fast_Learner-FFD93D?style=for-the-badge&labelColor=0d1117" alt="" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Detail_Oriented-6BCB77?style=for-the-badge&labelColor=0d1117" alt="" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Innovator-4D96FF?style=for-the-badge&labelColor=0d1117" alt="" />
-    </td>
-  </tr>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🤖 Acmegrade — AI Intern
+`Jul – Sep 2024` · **Bengaluru**
+- Built **CNN models** in Python + TensorFlow on CIFAR-10 · Achieved **95% precision** · **+12%** accuracy via data augmentation
+
+</td>
+</tr>
 </table>
-
-**💡 Fun fact:** When not coding — badminton 🏸 or organizing tech events 🎤
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/wave.svg" width="100%" alt="" />
 
 ---
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR6/giphy.gif" width="38" /> Professional Experience
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
 
-<details open>
-<summary>
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="28" alt="" />
-  <b>🚀 AbleSpace — Full-Stack Developer</b>
-  <img src="https://img.shields.io/badge/CURRENT-22c55e?style=flat-square" alt="Now" />
-</summary>
-
+<div align="center">
 <table>
-  <tr>
-    <td width="70%" valign="top">
+<tr>
+<td width="50%">
 
-**📅 Nov 2025 – Present** · **📍 San Francisco, CA (Remote)**
+#### 🛒 Greencart
+Full-Stack E-Commerce with cart, auth & product management.
+`React` `Node` `MongoDB` `Stripe`
+<br/><a href="https://github.com/YOUR_USERNAME/greencart">→ Repo</a>
 
-**🔧 Key Responsibilities:**
-- Develop responsive, accessible UIs with **React.js & Next.js**
-- Integrate **RESTful APIs** with backend teams
-- Optimize frontend performance and state management
-- Build reusable UI components (Material Design)
-- Support backend modules with **Node.js & Express.js**
+</td>
+<td width="50%">
 
-    </td>
-    <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" alt="" />
-    </td>
-  </tr>
+#### 🎬 KUKISHOW
+Movie ticket booking with seat selection & JWT auth.
+`Next.js` `TypeScript` `Tailwind`
+<br/><a href="https://github.com/YOUR_USERNAME/kukishow">→ Repo</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 💬 QuickChat
+Real-time chat over WebSocket with end-to-end security.
+`Socket.io` `Node` `React`
+<br/><a href="https://github.com/YOUR_USERNAME/quickchat">→ Repo</a>
+
+</td>
+<td width="50%">
+
+#### 🛍️ GoCart
+E-commerce with Stripe payments & Clerk auth.
+`Next.js` `Postgres` `Prisma`
+<br/><a href="https://github.com/YOUR_USERNAME/gocart">→ Repo</a>
+
+</td>
+</tr>
 </table>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,tailwind,vercel&theme=dark&perline=8" alt="Stack" />
-</p>
-
-</details>
-
-<details>
-<summary>
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="28" alt="" />
-  <b>🔧 Labmentix — Web Development Intern</b>
-</summary>
-
-<table>
-  <tr>
-    <td width="70%" valign="top">
-
-**📅 Sep – Nov 2025** · **📍 Bengaluru, India**
-
-**🎯 Key Achievements:**
-- Built **full-stack & cross-platform chat applications**
-- Implemented **Firebase Auth, Firestore, JWT**
-- **20%** faster deployments via CI/CD
-- **30%** bug reduction through testing
-
-    </td>
-    <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,flutter,nodejs,mongodb,firebase&theme=dark&perline=6" alt="Stack" />
-</p>
-
-</details>
-
-<details>
-<summary>
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="28" alt="" />
-  <b>🤖 Acmegrade — AI Intern</b>
-</summary>
-
-<table>
-  <tr>
-    <td width="70%" valign="top">
-
-**📅 Jul – Sep 2024** · **📍 Bengaluru, India**
-
-**🎯 Key Achievements:**
-- Built **CNN models** with Python & TensorFlow
-- Image classification (CIFAR-10 dataset)
-- **95%** precision; **12%** accuracy improvement
-- Reduced overfitting via data augmentation
-
-    </td>
-    <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200" alt="" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv&theme=dark&perline=6" alt="Stack" />
-</p>
-
-</details>
-
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="" />
+</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="38" /> Key Achievements
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> GitHub Stats
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70" /><br>
-      <b>20%</b> Faster<br>
-      <sub>Deployments</sub><br>
-      <img src="https://img.shields.io/badge/CI_CD-Vercel-22c55e?style=flat-square" alt="" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/QTfX9Ejfra3Zm/giphy.gif" width="70" /><br>
-      <b>30%</b> Reduction<br>
-      <sub>Bugs</sub><br>
-      <img src="https://img.shields.io/badge/QA-Testing-22c55e?style=flat-square" alt="" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/3oKIPa2TdahY8LAAgx/giphy.gif" width="70" /><br>
-      <b>95%</b> Precision<br>
-      <sub>ML Models</sub><br>
-      <img src="https://img.shields.io/badge/CNN-TensorFlow-22c55e?style=flat-square" alt="" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="70" /><br>
-      <b>12%</b> Improvement<br>
-      <sub>Accuracy</sub><br>
-      <img src="https://img.shields.io/badge/Tuning-Hyperparams-22c55e?style=flat-square" alt="" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg" width="100%" alt="" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=E6EDF3&bg_color=0D1117"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF00E5&currStreakLabel=00E5FF&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=8B949E&sideLabels=E6EDF3"/>
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=00E5FF&text_color=E6EDF3&bg_color=0D1117&langs_count=10"/>
+
+</div>
+
+### 🏆 Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+</div>
+
+### 🌐 3D Contribution Globe
+<div align="center">
+<img width="90%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+> Enable the snake by adding the [Snake Action](https://github.com/Platane/snk) workflow to your profile repo.
+
+### 📈 Activity Graph
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00E5FF&line=FF00E5&point=E6EDF3&area=true&hide_border=true"/>
+</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="38" /> Featured Projects
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"> Certifications
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <b>🛒 Greencart</b><br>
-        <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120" alt="" /><br>
-        <a href="https://greencart-client-lyart.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-        &nbsp;
-        <a href="https://github.com/Kush146"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a><br>
-        <sub><b>Full-Stack E-Commerce</b> · Cart · Auth · Products</sub><br>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb&theme=dark&perline=4" alt="" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <b>🎬 KUKISHOW</b><br>
-        <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="120" alt="" /><br>
-        <a href="https://movie-ticket-fullstack-3tx1.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-        &nbsp;
-        <a href="https://github.com/Kush146"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a><br>
-        <sub><b>Movie Ticket Booking</b> · Seats · JWT · Responsive</sub><br>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark&perline=4" alt="" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <b>💬 QuickChat</b><br>
-        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120" alt="" /><br>
-        <a href="https://quickchat-fullstack-client.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-        &nbsp;
-        <a href="https://github.com/Kush146"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a><br>
-        <sub><b>Real-Time Chat</b> · WebSocket · Security</sub><br>
-        <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb&theme=dark&perline=4" alt="" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <b>🛍️ GoCart</b><br>
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" alt="" /><br>
-        <a href="https://go-cart-ecommerce-three.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
-        &nbsp;
-        <a href="https://github.com/Kush146"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a><br>
-        <sub><b>E-Commerce</b> · Stripe · Clerk · PostgreSQL</sub><br>
-        <img src="https://skillicons.dev/icons?i=nextjs,postgresql,prisma&theme=dark&perline=4" alt="" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/line.gif" width="100%" alt="" />
+`Data Analytics — Job Simulation` · `GenAI Analytics` · `Python Roadmap` · `AI Engineer — Professional` · `AI Internship` · `Full-Stack Dev`
+
+</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="38" /> Tech Stack & Tools
+## <img src="https://media.giphy.com/media/hoVdcCPqxa1F7CmVSn/giphy.gif" width="28"> Education
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,postgres,prisma,tailwind,redux,firebase,aws,docker,git,vscode,py,tensorflow,opencv&theme=dark&perline=9" alt="Tech" />
-</p>
-
-<p align="center">
-  <b>Primary:</b> React · Next.js · TypeScript · Node.js · Express · MongoDB &nbsp;|&nbsp;
-  <b>Frontend:</b> Tailwind · Redux · Material-UI &nbsp;|&nbsp;
-  <b>AI/ML:</b> Python · TensorFlow · OpenCV
-</p>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/wave2.svg" width="100%" alt="" />
+- 🎓 **B.Tech, Computer Science** — Amity University, Mumbai · `2021–2025`
+- 🏫 **Junior College, CS** — Atomic Energy Central School 1, Tarapur · `2019–2021`
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="38" /> GitHub Statistics
+## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="30"> Let's Connect
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kush146&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00F7FF&icon_color=FF6BCB&text_color=c9d1d9&border_radius=12" alt="Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kush146&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6BCB&currStreakLabel=00F7FF&border_radius=12" alt="Streak" />
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush146&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&border_radius=12" alt="Top Langs" />
-</p>
+<!-- ===== 3D ANIMATED FOOTER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kush146&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00F7FF&line=FF6BCB&point=FFFFFF&border_radius=12" width="95%" alt="Activity" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kush146&theme=radical&no-frame=false&no-bg=false&margin-w=8&row=2&column=4" alt="Trophies" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="38" /> Certifications
-
-<table>
-  <tr>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat-square&logo=google-analytics&logoColor=white" alt="" /><br><b>Data Analytics</b><br><sub>Job Simulation</sub></td>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/GenAI_Analytics-FF6F00?style=flat-square&logo=google-gemini&logoColor=white" alt="" /><br><b>GenAI Analytics</b><br><sub>Certificate</sub></td>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/Python_Roadmap-3776AB?style=flat-square&logo=python&logoColor=white" alt="" /><br><b>Python</b><br><sub>One Roadmap</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/AI_Engineer-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="" /><br><b>AI Engineer</b><br><sub>Professional</sub></td>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/AI_Internship-22c55e?style=flat-square&logo=artificial-intelligence&logoColor=white" alt="" /><br><b>AI Internship</b><br><sub>Completion</sub></td>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/Full_Stack-61DAFB?style=flat-square&logo=react&logoColor=white" alt="" /><br><b>Full-Stack Dev</b><br><sub>Experience</sub></td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
-
----
-
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="38" /> Education
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <b>📚 B.Tech — Computer Science</b><br>
-      Amity University, Mumbai<br>
-      <sub>2021 – 2025</sub><br>
-      Data Structures · Web Dev · ML · DBMS · Cloud
-    </td>
-    <td width="50%" align="center">
-      <b>🏫 Junior College — CS</b><br>
-      Atomic Energy Central School 1, Tarapur<br>
-      <sub>2019 – 2021</sub><br>
-      CS Fundamentals · Programming · Mathematics
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38" /> Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/kushkore"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:kushkore04@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;
-  <a href="https://portfoliomain-two-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  &nbsp;
-  <a href="https://github.com/Kush146"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://twitter.com/kushkore"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Kush146/count.svg" alt="Visitors" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Quote" />
-</p>
-
-<p align="center">
-  <em><b>Turning ideas into impactful digital experiences — one line of code at a time.</b></em>
-</p>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%" alt="" />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20,12,2,22&section=footer&text=Thanks+for+Visiting!&fontSize=36&fontAlignY=72&desc=Let's+build+something+amazing+together&descAlignY=88&descSize=14&animation=twinkling" alt="Footer" />
-</p>
+<p align="center"><i>“Turning ideas into impactful digital experiences — one line of code at a time.”</i></p>
